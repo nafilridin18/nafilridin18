@@ -46,22 +46,18 @@
 
 ### 🤖 AI / Machine Learning
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,numpy,sklearn,tensorflow,pytorch" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,numpy,sklearn,tensorflow,pytorch" />
 
 ### 🛠️ Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nafilridin18&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nafilridin18&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
